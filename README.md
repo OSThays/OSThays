@@ -16,18 +16,12 @@
   </tr>
   <td align="center">
    
- <img src="/repository/imagens/monkey_tcld.gif"> [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=thaysoliveira1347)](https://open.spotify.com/user/thaysoliveira1347)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=thaysoliveira1347)](https://open.spotify.com/user/thaysoliveira1347)
 
   </td>
    </tr>
    </table>
-
-
-    
    <hr>
 </div>
 <hr>   
-  
-
-
  
