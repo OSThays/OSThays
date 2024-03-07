@@ -17,9 +17,10 @@
 
         <th colspan="2"><h3>OUVINDO NO SPOTIFY 😎🎧</h3></th>
   </tr>
-  <td align="center">
+  <td align="laft">
    
  ![monkey-computer](https://github.com/OSThays/OSThays/assets/160744526/aeeb1877-d602-4f4f-8926-e0fafff59ea8)
+ 
    
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=thaysoliveira1347)](https://open.spotify.com/user/thaysoliveira1347)
 
