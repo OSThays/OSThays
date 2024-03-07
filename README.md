@@ -15,9 +15,9 @@
 
 
 
-        <th colspan="2"><h3>OUVINDO NO SPOTIFY 😎🎧</h3></th>
+ <th colspan="2"><h3>OUVINDO NO SPOTIFY 😎🎧</h3></th>
   </tr>
-  <td align="laft">
+  <td align="center">
    
  ![monkey-computer](https://github.com/OSThays/OSThays/assets/160744526/aeeb1877-d602-4f4f-8926-e0fafff59ea8)
  
