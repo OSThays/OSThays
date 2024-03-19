@@ -10,11 +10,10 @@
       <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSThays&layout=compact&langs_count=7&theme=react"/&gt;
        </div>
 </div>
-</div>
-
 <div align="center">
    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=7&theme=react"/&gt;
     </div>
+    
  <hr>
   <table>
   <tr>
@@ -33,7 +32,6 @@
   </td>
    </tr>
    </table>
-   <hr>
+   </hr>
 </div>
-<hr>   
  
